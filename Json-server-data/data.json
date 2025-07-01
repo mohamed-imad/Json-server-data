@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": "3973",
+      "title": "Gym Routine",
+      "body": "Chest, Shoulders,Triceps\nBack, Biceps\nlegs.abs ",
+      "author": "imad"
+    },
+    {
+      "id": "37e2",
+      "title": "Second Blog",
+      "body": "I'm so happy to tell you that this is my first project that i have deployed in github",
+      "author": "imad"
+    }
+  ]
+}
